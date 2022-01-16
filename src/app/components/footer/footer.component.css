@@ -1,0 +1,10 @@
+.footer_background{
+    background-color: #333;
+}
+
+.footer_hover :hover{
+    color: black;
+}
+h5{
+    color:white;
+}

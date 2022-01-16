@@ -1,0 +1,15 @@
+.my_spacing{
+    flex: 1 1 auto;
+}
+
+.nav_background{
+    background-color: #333;
+}
+
+.nav_text_color{
+    color: white;
+}
+
+.nav_text_color :hover{ 
+    color: white;
+}
