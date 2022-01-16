@@ -13,3 +13,8 @@
 .nav_text_color :hover{ 
     color: white;
 }
+h1{
+    color:white;
+    font-weight: 1000;
+    font-style: italic;
+}
