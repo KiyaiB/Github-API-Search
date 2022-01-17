@@ -11,11 +11,13 @@ Run ng generate component component-name to generate a new component. You can al
 
 # BUILD
 Run ng build to build the project. The build artifacts will be stored in the dist/ directory.
+
 # RUNNING UNIT TESTS
 Run ng test to execute the unit tests via Karma.
-# Running end-to-end tests
+# RUNNING END-TO-END TESTS
 Run ng e2e to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-# Further help
+
+# FURTHER HELP
 To get more help on the Angular CLI use ng help or go check out the Angular CLI Overview and Command Reference page.
 
 # LICENSE
