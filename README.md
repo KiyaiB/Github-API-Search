@@ -9,4 +9,5 @@ Run ng generate component component-name to generate a new component. You can al
 
 # Build
 Run ng build to build the project. The build artifacts will be stored in the dist/ directory.
-
+# Running unit tests
+Run ng test to execute the unit tests via Karma.
